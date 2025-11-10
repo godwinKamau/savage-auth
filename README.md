@@ -1,13 +1,7 @@
-## Installation
+# Savage-Auth
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+_Practice with fixing someone else's code. Used to understand the basics of passport authentication._
 
 ## Credit
 
-Modified from Scotch.io's auth tutorial
+Modified from Scotch.io's(Now Digital Ocean) auth tutorial.
