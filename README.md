@@ -1,6 +1,6 @@
 # Savage-Auth
 
-### GOAL: Fix the thumbs up icon to increase the score on the corresponding post.
+A 21 savage fansite with user-login so people can talk all about the great 2121~!
 
 <hr>
 
